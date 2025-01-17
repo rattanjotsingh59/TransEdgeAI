@@ -4,6 +4,7 @@
 #my-files
 fe
 .env*
+README.md
 # dependencies
 /node_modules
 /.pnp
