@@ -1,0 +1,7 @@
+__pycache__
+backend
+gvenv
+.env
+credentials.json
+token.json
+README.md
