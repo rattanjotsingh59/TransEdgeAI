@@ -4,7 +4,8 @@
 #my-files
 fe
 .env*
-README.md
+#info
+/README.md
 # dependencies
 /node_modules
 /.pnp
@@ -27,7 +28,6 @@ README.md
 
 # misc
 .DS_Store
-*.pem
 
 # debug
 npm-debug.log*
