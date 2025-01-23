@@ -5,8 +5,6 @@ services:
       - "8000:8000"
     env_file:
       - .env
-#    secrets:
-#      - credentials
     volumes:
         - ./credentials.json:/app/credentials.json:ro
         - ./token.json:/app/token.json
